@@ -1,0 +1,15 @@
+2025-03-10 10:20:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Mayur Pawar\eclipse-workspace\OpencastV121\master.xml
+
+2025-03-10 10:20:42 INFO  TC_001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-10 10:20:42 INFO  TC_001_AccountRegistrationTest:68 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-10 13:10:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Mayur Pawar\eclipse-workspace\OpencastV121\master.xml
+
+2025-03-10 13:10:47 INFO  TC_001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-10 13:10:47 INFO  TC_001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-03-10 13:10:48 INFO  TC_001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-03-10 13:10:48 INFO  TC_001_AccountRegistrationTest:30 - Providing customer details...
+2025-03-10 13:10:49 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message..
+2025-03-10 13:10:49 INFO  TC_001_AccountRegistrationTest:52 - Test passed Mayur
+2025-03-10 13:10:49 INFO  TC_001_AccountRegistrationTest:68 - ***** Finished TC001_AccountRegistrationTest *****
